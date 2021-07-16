@@ -3,8 +3,8 @@
  <item name="quest_xtm_test_key"><![CDATA[XTM Test Key in the file resource_quest.xml]]></item>
  <item name="quest_headline_jobs"><![CDATA[Opgaver]]></item>
  <item name="quest_headline_overview"><![CDATA[Oversigt]]></item>
- <item name="quest_headline_reward"><![CDATA[Præmie]]></item>
- <item name="quest_headline_challenges"><![CDATA[Udfordringer]]></item>
+ <item name="quest_headline_reward"><![CDATA[asdasd]]></item>
+ <item name="quest_headline_challenges"><![CDATA[asd]]></item>
  <item name="quest_headline_ranking"><![CDATA[Rangliste]]></item>
  <item name="quest_headline_specials"><![CDATA[Specials]]></item>
  <item name="quest_success_receive_batterys"><![CDATA[Laserammunition <strong>%LASERAMMUNITION_TYPE%</strong> modtaget (%AMOUNT%)]]></item>
